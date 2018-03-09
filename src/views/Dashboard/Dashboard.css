@@ -1,0 +1,15 @@
+.counter-row {
+  height: 30px;
+  line-height: 30px;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+.counter-row span {
+  display: inline-block;
+  width: 50%;
+}
+
+.counter-row .value {
+  text-align: right;
+}

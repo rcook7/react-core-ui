@@ -1,0 +1,6 @@
+{
+  "name": "AuthGuard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AuthGuard.js"
+}

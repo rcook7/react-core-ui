@@ -1,0 +1,34 @@
+// Here you can add other styles
+.errors {
+  color: red;
+  margin-top: 4px;
+}
+
+.post-card {
+
+  .card > a {
+    color: #263238;
+    text-decoration: none;
+  }
+
+  .card-block {
+    max-height: 200px;
+    min-height: 200px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .card-footer {
+    text-align: center;
+    padding: 8px;
+  }
+
+  .shader {
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    top: 170px;
+    left: 0;
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,0.7) 50%,rgba(255,255,255,1) 100%);
+  }
+}
